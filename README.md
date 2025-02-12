@@ -40,7 +40,8 @@ LingoHub/
 3. **Input and Get Results**: Enter your text and get results instantly.
 
 ## Screenshots
-*Add screenshots of the interface here to showcase the features.*
+*![Lingo_Hub](https://github.com/user-attachments/assets/6e3b27ae-02b4-4dee-8949-927b5203983f)
+*
 
 ---
 **Developed by:** *Josfer Dsouza*
